@@ -17,6 +17,6 @@ def funcao_y(funcao):
 def funcao_z(funcao):
     """
     Função de exemplo que `stopa` por 12 segundos.
-    """
+    """ 
     time.sleep(12)
     return funcao
